@@ -1,46 +1,47 @@
 # BMI Calculator 🧮💪
- 
-A simple and modern BMI (Body Mass Index) calculator app built using Flutter. It allows users to select their gender, adjust height and weight, and calculate their BMI to understand if they are underweight, normal, or overweight.
- 
+
+A simple and modern BMI (Body Mass Index) calculator app built using **Flutter**.  
+It allows users to select their gender, adjust height and weight, and calculate their BMI to understand if they are underweight, normal, or overweight.
+
 ## 🖼️ Screenshots
- 
+
 <p float="left">
-<img src="[The homepage displays weight, height, and age.](https://github.com/mohamed12mosaad/bmi_calculator_app/blob/main/screenshot/Screenshot%202026-02-03%20202116.png)" width="45%" />
-<img src="screenshots/result.png" width="45%" />
+  <img src="screenshot/Screenshot 2026-02-03 202116.png" width="45%" />
+  <img src="screenshot/Screenshot 2026-02-03 202147.png" width="45%" />
 </p>
- 
+
 ## 🚀 Features
- 
+
 - Select gender (Male / Female)
 - Adjust height using a slider
 - Increase/decrease weight and age
 - Calculate BMI and see result details
 - Responsive UI with clean design
- 
+
 ## 📱 Technologies Used
- 
+
 - **Flutter** 🐦
 - **Dart** 💙
 - Material Design Components
- 
+
 ## 🧠 How BMI is Calculated
- 
+
 > **BMI = weight (kg) / (height (m))²**
- 
+
 BMI is a measure of body fat based on height and weight that applies to adult men and women.
- 
+
 ### BMI Categories:
- 
+
 | Category       | BMI Range |
 |----------------|-----------|
 | Underweight    | < 18.5    |
 | Normal weight  | 18.5–24.9 |
 | Overweight     | 25–29.9   |
 | Obese          | ≥ 30      |
- 
+
 ## 📦 Installation
- 
+
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/bmi_calculator.git
-   cd bmi_calculator
+   git clone https://github.com/mohamed12mosaad/bmi_calculator_app.git
+   cd bmi_calculator_app
