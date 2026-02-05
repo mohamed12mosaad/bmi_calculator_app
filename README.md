@@ -5,7 +5,7 @@ A simple and modern BMI (Body Mass Index) calculator app built using Flutter. It
 ## 🖼️ Screenshots
  
 <p float="left">
-<img src="screenshots/home.png" width="45%" />
+<img src="[screenshots/home.png](https://github.com/mohamed12mosaad/bmi_calculator_app/blob/main/screenshot/Screenshot%202026-02-03%20202116.png)" width="45%" />
 <img src="screenshots/result.png" width="45%" />
 </p>
  
