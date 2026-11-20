@@ -2,3 +2,6 @@
 /windows/** linguist-detectable=false
 /web/** linguist-detectable=false
 /macos/** linguist-detectable=false
+
+/ios/Runner/Runner-Bridging-Header.h linguist-detectable=false
+/ios/RunnerTests/** linguist-detectable=false
